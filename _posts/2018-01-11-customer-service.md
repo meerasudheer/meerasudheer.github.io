@@ -17,6 +17,8 @@ Review products, books, movies, restaurant and anything you like on your Jekyll 
 
 It's actually really simple! Add the rating in your YAML front matter. It also supports halfs:
 
+testing
+
 ```html
 ---
 layout: post
